@@ -1,7 +1,0 @@
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/install/strip.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/edit_cache.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/exampleB2a.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/rebuild_cache.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/list_install_components.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/install/local.dir
-/home/gate/Documents/protonSplitBeamBorGeantVersion/B2/B2a/build/CMakeFiles/install.dir
